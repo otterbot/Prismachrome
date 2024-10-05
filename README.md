@@ -2,7 +2,7 @@
 
 Someone had brought up to me the idea of creating an overlay with a bezel in every color fo the rainbow, but because I'm extra, I took it a step further and made a slightly fancier variation.
 
-Including in this repository are both grid overlay and non-grid overlay with a bezel in each of the following colors:
+Included in this repository are both grid overlay and non-grid overlay with a bezel in each of the following colors:
 
 Red
 Orange
